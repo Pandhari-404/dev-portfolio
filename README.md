@@ -12,7 +12,7 @@ The main goal of this portfolio is to present my projects, provide information a
 You can view the live website here:
 
 🔗 **Live Site:** (https://pandhari-prortfolio.netlify.app/)  
-🔗 **GitHub Repository:** (Add your repo link here)
+🔗 **GitHub Repository:** (https://github.com/Pandhari-404/dev-portfolio.git)
 
 ---
 
