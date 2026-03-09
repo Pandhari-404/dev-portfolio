@@ -55,7 +55,7 @@ The purpose of this portfolio website is to:
 
 If you would like to connect with me or have any suggestions, feel free to reach out.
 
-- GitHub: (Add your GitHub profile link)  
+- GitHub: (https://github.com/Pandhari-404)  
 - Email: (pandharipawde018@gmail.com)
 
 ---
