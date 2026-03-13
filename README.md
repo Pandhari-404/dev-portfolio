@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💻 dev-portfolio
 
 Welcome to my personal portfolio website!  
@@ -66,3 +67,5 @@ If you like this project, consider giving it a **star ⭐ on GitHub**.
 It helps support my work and encourages me to build more projects.
 
 ---
+=======
+>>>>>>> 26ed166 (your message)
