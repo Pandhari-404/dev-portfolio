@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 💻 dev-portfolio
 
 Welcome to my personal portfolio website!  
